@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the paper and this repository."
+title: "textbench: KNN vs Random Forest vs C4.5 in small-scale text mining"
+type: software
+license: MIT
+authors:
+  - family-names: Muni
+    given-names: Abdul
+  - family-names: Defit
+    given-names: Serjon
+  - family-names: Efendi
+    given-names: Irman
+preferred-citation:
+  type: article
+  title: "Accuracy, Efficiency, and Interpretability Trade-offs of KNN, Random Forest, and C4.5 in Small-Scale Text Mining: A Statistical Significance Study"
+  authors:
+    - family-names: Muni
+      given-names: Abdul
+    - family-names: Defit
+      given-names: Serjon
+    - family-names: Efendi
+      given-names: Irman
+# After Zenodo issues the DOI, add:  doi: "10.5281/zenodo.XXXXXXX"
